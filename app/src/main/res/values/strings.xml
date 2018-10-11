@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Resturent Expendable listView</string>
+
+
+    <string-array name="foodName">
+
+    <item>Combos </item>
+    <item> Nashville Hot Chicken</item>
+        <item>Nashville Hot Tenders </item>
+        <item>Tenders and Popcorn Nuggets </item>
+        <item>Kid’s Meal</item>
+        <item>Family Meals </item>
+        <item>Homestyle Sides </item>
+        <item> Colonel’s Value</item>
+        <item>Drinks </item>
+        <item> $20 Family Fill Up</item>
+        <item> Big Box Meals</item>
+        <item>Desserts</item>
+
+
+
+</string-array>
+    <string-array name="child_food">
+
+        <item> 2 Pc. Chicken – Combo   \n
+            Doublicious Sandwich – Combo\n
+            Popcorn Nuggets – Combo\n
+2 Chicken Littles – Combo\n
+Go Large Combo
+</item>
+
+        <item>
+            1 Pc. Basket (Chicken Breast, Coleslaw and Biscuit)\n
+2 Pc. Basket (Drumstick and Thigh, Coleslaw and Biscuit)\n
+8 Pc. Meal (8 Pc. Chicken, Large Mashed Potatoes and Gravy, Large Coleslaw and 4 Biscuits)\n
+
+        </item>
+        <item>
+           3 Pc. Basket (3 Tenders, Coleslaw and Biscuit)\n
+12 Pc. Meal (12 Tenders, Large Mashed Potatoes and Gravy, Large Coleslaw and 4 Biscuits)\n
+24 Pc. Tailgate Meal (24 Tenders)\n
+
+        </item>
+        <item>
+            Chicken Tenders\n
+Chicken Tenders\n
+Chicken Tenders – Combo\n
+Popcorn Nuggets\n
+
+        </item>
+
+        <item>
+        Drumstick\n
+             1 Chicken Little\n
+            1 Tender or Popcorn Nuggets\n
+            Individual Side\n
+            Applesauce\n
+            Small Drink
+
+        </item>
+
+        <item>
+            8 Pc. Meal with 2 Large Sides and 4 Biscuits\n
+            8 Pc. Chicken Only\n
+            12 Pc. Meal with 3 Large Sides and 6 Biscuits\n
+            12 Pc. Chicken Only\n
+            16 Pc. Meal with 4 Large Sides and 8 Biscuits\n
+            16 Pc. Chicken Only\n
+            Tenders and Wedges for 2 (6 Pc. Tenders, Large Wedges and 2 Sauces)\n
+            Tenders Meal (12 Pc. Tenders, 2 Large Sides, 4 Biscuits and 6 Sauces)
+        </item>
+
+        <item>
+
+            Mashed Potatoes	\n
+            Potato Wedges	\n
+            Baked Beans	\n
+            Cole Slaw	\n
+            Sweet Kernel Corn	\n
+            Green Beans	\n
+            Mac and Cheese	\n
+            2 Biscuits
+        </item>
+
+        <item>
+
+            3 Hot Wings	\n
+            1 Chicken Little	\n
+            Go Cup – Popcorn Nuggets and Wedges	\n
+            Go Cup – Chicken Little and Wedges	\n
+            Go Cup – 2 Tenders and Wedges	\n
+            Go Cup – 3 Hot Wings and Wedges
+        </item>
+
+        <item>
+
+            Soft Drink	\n
+            Aquafina Water	\n
+            Iced Tea	\n
+            Lemonade	\n
+            Strawberry Lemonade
+        </item>
+
+
+        <item>
+
+            Family Meal – 8 Pc \n
+            Chicken \n
+            2 Large Mashed Potatoes \n
+            Large Gravy \n
+            Large Coleslaw and 4 Biscuits
+        </item>
+        <item>
+            2 Pc. Drum and Thigh, Mashed Potatoes with Gravy, Biscuit, Medium Drink and Chocolate Chip Cookie\n
+            3 Pc. Tenders, Mashed Potatoes with Gravy, Biscuit, Medium Drink and Chocolate Chip Cookie	\n
+            Chicken Breast, Mashed Potatoes with Gravy, Biscuit, Medium Drink and Chocolate Chip Cookie	\n
+            Famous Bowl, Medium Drink and Chocolate Chip Cookie	\n
+            Pot Pie, Medium Drink and Chocolate Chip Cookie	\n
+        </item>
+
+        <item>
+
+            3 Pc. Chicken Box	\n
+            2 Pc. Chicken and Popcorn Box	\n
+            3 Tenders and Popcorn Box
+        </item>
+
+        <item>
+            Chocolate Chip Cake	\n
+            Cookies	\n
+            Cookies
+        </item>
+    </string-array>
+
+
+</resources>
